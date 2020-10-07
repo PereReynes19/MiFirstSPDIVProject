@@ -1,0 +1,15 @@
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.exe
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.deps.json
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.runtimeconfig.json
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.runtimeconfig.dev.json
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.dll
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\bin\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.pdb
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.csprojAssemblyReference.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.Form1.resources
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.csproj.GenerateResource.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.AssemblyInfoInputs.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.AssemblyInfo.cs
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.csproj.CoreCompileInputs.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.dll
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.pdb
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_WinformsUI\obj\Debug\netcoreapp3.1\MiFirstSPDIVProject_WinformsUI.genruntimeconfig.cache

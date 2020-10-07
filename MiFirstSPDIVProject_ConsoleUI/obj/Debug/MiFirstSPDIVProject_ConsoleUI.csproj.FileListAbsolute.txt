@@ -1,0 +1,7 @@
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\bin\Debug\MiFirstSPDIVProject_ConsoleUI.exe.config
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\bin\Debug\MiFirstSPDIVProject_ConsoleUI.exe
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\bin\Debug\MiFirstSPDIVProject_ConsoleUI.pdb
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\obj\Debug\MiFirstSPDIVProject_ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\obj\Debug\MiFirstSPDIVProject_ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\obj\Debug\MiFirstSPDIVProject_ConsoleUI.exe
+C:\Users\Pere\source\repos\MiFirstSPDIVProject\MiFirstSPDIVProject_ConsoleUI\obj\Debug\MiFirstSPDIVProject_ConsoleUI.pdb

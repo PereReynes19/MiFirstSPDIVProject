@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MiFirstSPDIVProject_WinformsUI/1.0.0": {
+        "runtime": {
+          "MiFirstSPDIVProject_WinformsUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiFirstSPDIVProject_WinformsUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
