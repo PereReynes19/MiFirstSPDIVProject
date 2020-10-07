@@ -19,7 +19,7 @@ namespace MiFirstSPDIVProject_WinformsUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello SPDIV 2021");
+            MessageBox.Show("Hello SPDIV  2021");
         }
     }
 }
